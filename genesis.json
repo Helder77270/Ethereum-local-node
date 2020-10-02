@@ -8,5 +8,5 @@
     "difficulty": "10", 
     "gasLimit": "2100000", 
     "alloc": {}, 
-    "coinbase": "<une_certaine_adresse>" 
+    "coinbase": "0xdEBF80A2421B5d5209F57E7D217968a7672cc66D" 
     }
